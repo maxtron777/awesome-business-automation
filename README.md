@@ -31,6 +31,7 @@ Unlike developer-focused lists or stale workflow directories, this list connects
 - [Knowledge Management and Second Brain](#knowledge-management-and-second-brain)
 - [Data and Analytics](#data-and-analytics)
 - [Communication and Messaging](#communication-and-messaging)
+- [Voice and Phone Automation](#voice-and-phone-automation)
 - [Financial and Invoicing](#financial-and-invoicing)
 - [Scheduling and Calendar](#scheduling-and-calendar)
 - [Project Management](#project-management)
@@ -128,6 +129,12 @@ Open-source communication platforms for customer-facing messaging, team collabor
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) — Open-source customer messaging platform with live-chat, email, and social media integration.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) — Open-source communications platform for team messaging, video conferencing, and customer engagement.
 - [element-hq/synapse](https://github.com/element-hq/synapse) — Matrix homeserver implementation enabling decentralised, end-to-end encrypted messaging for organisations.
+
+## Voice and Phone Automation
+
+Platforms for automating inbound and outbound phone calls with AI voice agents, including call routing, appointment booking and post-call follow up.
+
+- [Hermes](https://www.buildwithhermes.com) — Voice agent platform for agencies that combines inbound and outbound calling, CRM, campaign orchestration and usage billing under a single white-label brand. Documented REST API and webhooks for wiring calls into existing business workflows.
 
 ## Financial and Invoicing
 
